@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'mhtt à!',
+    introTitle: 'Tâm ak!',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao mh cứ đi nhầm đường
-    Lúc nào cũng tretrau
-    Để mình tretrau mãi `,
+    Mà sao tâm cứ đi nhầm đường
+    Lúc nào cũng thích 🐼🐼
+    Suốt ngày nghĩ đến  🐼🐼🐼 `,
     btnIntro: 'Vớ Vẩn',
-    title: 'Phải chăng mh đã tretrau ngay từ cái ngày sinh ra 😙',
-    desc: 'liệu mh tretrau đến hết đời ',
-    btnYes: 'đúng rồi  <33',
+    title: 'Phải chăng tâm đã yêu 🐼🐼 ngay từ cái nhìn đầu tiên 😙',
+    desc: 'liệu tâm có yêu 🐼🐼 đến hết đời ',
+    btnYes: 'Đương nhiên  <33',
     btnNo: 'Không,  :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao lại mình mh tretrau <3',
+    question:'Trên thế giới hơn 7 tỉ người mà sao lại thích mình 🐼🐼<3',
     btnReply: 'Gửi cho t <3',
-    reply: 'tretrau thì tretrau thôi <33333333',
-    mess: 't biết mà 🥰. m không thoát tretrau đc đâu 😘😘',
-    messDesc: 'tretrau tiếp đi nha.',
+    reply: 'tại 🐼 đáng yêu<33333333',
+    mess: 't biết mà 🥰. chúc m hạnh phúc nha 😘😘',
+    messDesc: 'nhanh 💑nha.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://m.me/levanquyen180103'
 }
