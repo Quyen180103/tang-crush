@@ -2,9 +2,9 @@ const CONFIG = {
     introTitle: 'mhtt à!',
     introDesc: `Trái đất vốn lạ thường
     Mà sao mh cứ đi nhầm đường
-    Lúc nào cubgx tretrau
+    Lúc nào cũng tretrau
     Để mình tretrau mãi `,
-    btnIntro: 'hihi',
+    btnIntro: 'Vớ Vẩn',
     title: 'Phải chăng mh đã tretrau ngay từ cái ngày sinh ra 😙',
     desc: 'liệu mh tretrau đến hết đời ',
     btnYes: 'đúng rồi  <33',
